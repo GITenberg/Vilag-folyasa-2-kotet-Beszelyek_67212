@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xml:base="http://www.gutenberg.org/"
+  xmlns:dcterms="http://purl.org/dc/terms/"
+  xmlns:cc="http://web.resource.org/cc/"
+  xmlns:pgterms="http://www.gutenberg.org/2009/pgterms/"
+  xmlns:dcam="http://purl.org/dc/dcam/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <pgterms:ebook rdf:about="ebooks/67212">
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/files/67212/67212-h/67212-h.htm">
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-01-21T09:43:56</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N5287fdb584dc45268f9ce15ec5aaddc2">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/html</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">320794</dcterms:extent>
+        <dcterms:isFormatOf rdf:resource="ebooks/67212"/>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <pgterms:marc905>20211128010642brczy</pgterms:marc905>
+    <dcterms:rights>Public domain in the USA.</dcterms:rights>
+    <dcterms:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-01-21</dcterms:issued>
+    <dcterms:language>
+      <rdf:Description rdf:nodeID="Nc4353b5a7aeb4e1991d0acf1ba79f30d">
+        <rdf:value rdf:datatype="http://purl.org/dc/terms/RFC4646">hu</rdf:value>
+      </rdf:Description>
+    </dcterms:language>
+    <pgterms:marc907>hu</pgterms:marc907>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/files/67212/67212-0.zip">
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N191c81171ba444b2a48f3f6a75cb6dc3">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value>application/octet-stream</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Nfb2ebefe2b5442c1bbf8729210683671">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/zip</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:isFormatOf rdf:resource="ebooks/67212"/>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-01-21T09:44:07</dcterms:modified>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">118498</dcterms:extent>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <pgterms:downloads rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</pgterms:downloads>
+    <pgterms:marc906>1854</pgterms:marc906>
+    <dcterms:title>Világ folyása (2. kötet): Beszélyek</dcterms:title>
+    <pgterms:marc260>Hungary :Számvald Gyula,1854.</pgterms:marc260>
+    <pgterms:marc508>Albert László from page images generously made available by the Google Books Library Project</pgterms:marc508>
+    <dcterms:license rdf:resource="license"/>
+    <dcterms:creator>
+      <pgterms:agent rdf:about="2009/agents/54158">
+        <pgterms:name>Bérczy, Károly</pgterms:name>
+      </pgterms:agent>
+    </dcterms:creator>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/files/67212/67212-h.zip">
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-01-21T09:44:07</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N0e99ae3a21ef4576b2d7339a5bfb6baf">
+            <rdf:value>application/octet-stream</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Ne5553a577c3e46a8846d499047039afb">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/zip</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">126499</dcterms:extent>
+        <dcterms:isFormatOf rdf:resource="ebooks/67212"/>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/files/67212/67212-0.txt">
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">284300</dcterms:extent>
+        <dcterms:isFormatOf rdf:resource="ebooks/67212"/>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Nb8361264166a4284aa91164405607c8d">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/plain; charset=us-ascii</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-01-21T09:43:56</dcterms:modified>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:publisher>Project Gutenberg</dcterms:publisher>
+  </pgterms:ebook>
+  <cc:Work rdf:about="">
+    <cc:license rdf:resource="https://creativecommons.org/publicdomain/zero/1.0/"/>
+    <rdfs:comment>Archives containing the RDF files for *all* our books can be downloaded at
+            https://www.gutenberg.org/wiki/Gutenberg:Feeds#The_Complete_Project_Gutenberg_Catalog</rdfs:comment>
+  </cc:Work>
+</rdf:RDF>
